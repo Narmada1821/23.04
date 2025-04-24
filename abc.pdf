@@ -1,0 +1,10 @@
+1 FROM
+•	Purpose: Specifies the base image for the container.
+•	Syntax:
+FROM <image>:<tag>
+•	Example:
+FROM node:18
+FROM ubuntu:latest
+
+This sets the base image as Node.js version 18.
+FROM ubuntu:latest
